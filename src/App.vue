@@ -1,8 +1,6 @@
 <template>
   <div id="app">
-    itcaset1111111
-
-    <HmButton></HmButton>
+    itcaset111111111221
   </div>
 </template>
 
