@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    itcaset12
+    itcaset
   </div>
 </template>
 
